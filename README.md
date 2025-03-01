@@ -46,10 +46,6 @@ images_to_excel("path/to/image/folder", "output.xlsx")
 - Exception handling is included to skip unreadable files.
 - Standardized formatting ensures seamless integration with digital menus.
 
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests.
-
 ## License
 
 This project is licensed under the MIT License.
