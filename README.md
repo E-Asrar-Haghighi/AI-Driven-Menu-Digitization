@@ -6,6 +6,7 @@ This project is part of an initiative to **automate menu digitization** using Ge
 
 ## Features
 
+- Converts PDF files to images for easier processing.
 - Uses AI-powered OCR for accurate text extraction from images.
 - Converts menu data into a structured Excel format.
 - Supports batch processing for multiple images in a directory.
